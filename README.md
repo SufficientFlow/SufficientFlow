@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jesse</h1>
-<h3 align="center">A passionate frontend developer from The Netherlands</h3>
+<h3 align="center">A passionate software developer from The Netherlands</h3>
 
 - 🔭 I’m currently working on **dont forget to update this**
+
+- 🏫 I’m currently studying at **NHL Stenden Emmen**
 
 - 🌱 I’m currently learning **C and BLE Communication**
 

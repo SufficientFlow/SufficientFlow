@@ -1,1 +1,2 @@
-"# SufficientFlow" 
+# What's up, I'm Jesse 👋
+I am a software engineering student over at NHL Stenden in Emmen. I come from a background in IT having family that are in different branches varieing from software engineering to security. 

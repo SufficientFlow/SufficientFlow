@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jessevandervoet@pm.me**
 
-- 📄 Know about my experiences [dont forget to update this](dont forget to update this)
+- 📄 Know about my experiences [LinkedIn](https://linkedin.com/in/jesse-van-der-voet-2658ba32b)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

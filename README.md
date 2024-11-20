@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jesse</h1>
 <h3 align="center">A passionate software developer from The Netherlands</h3>
 
-- 🔭 I’m currently working on **dont forget to update this**
+- 🔭 I’m currently working on [SH Overseer](https://github.com/SolidHorizons/sh-overseer-frontend)
 
 - 🏫 I’m currently studying at **NHL Stenden Emmen**
 

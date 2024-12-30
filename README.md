@@ -11,8 +11,6 @@
 
 - 👨‍💻 Also check out my school account [https://github.com/JesseNHLStenden](https://github.com/JesseNHLStenden)
 
-- 📫 How to reach me **jessevandervoet@pm.me**
-
 - 📄 Know about my experiences [LinkedIn](https://linkedin.com/in/jesse-van-der-voet-2658ba32b)
 
 <h3 align="left">Languages and Tools:</h3>

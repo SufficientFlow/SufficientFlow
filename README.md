@@ -5,7 +5,7 @@
 
 - 🏫 I’m currently studying at **NHL Stenden Emmen**
 
-- 🌱 I’m currently learning **C and BLE Communication**
+- 🌱 I’m currently learning **Typescript & React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SufficientFlow](https://github.com/SufficientFlow)
 

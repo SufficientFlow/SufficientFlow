@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jesse</h1>
 <h3 align="center">A passionate software developer from The Netherlands</h3>
 
-- 🔭 I’m currently working on [SH Overseer](https://github.com/SolidHorizons/sh-overseer-frontend)
+- 🔭 I’m currently working on [Still Fresh?](https://github.com/NHL-StillFresh/still-fresh-ios)
 
 - 🏫 I’m currently studying at **NHL Stenden Emmen**
 
-- 🌱 I’m currently learning **Typescript & React**
+- 🌱 I’m currently learning **SwiftUI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SufficientFlow](https://github.com/SufficientFlow)
 
